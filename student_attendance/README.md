@@ -1,5 +1,7 @@
 # student_attendance
 
+Mobile-Based Attendance System Using Face Recognitions.
+
 A new Flutter project.
 
 ## Getting Started
