@@ -1,0 +1,2 @@
+# Real-Time-Face-Recognition-Attendance-System
+MOBILE APP BASED ATTENDANCE  SYSTEM USING FACE RECOGNITION
